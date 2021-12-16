@@ -30,16 +30,14 @@ public class SelectionSort {
 
             /* Swap arr[i] and arr[pos] */
 
-            temp = arr[I];
+            temp = arr[i];
 
             arr[i] = arr[pos];
 
-            arr[pos]= temp;           
+            arr[pos]= temp;
 
-        }       
+        }
 
       }
 
 }
-
- 
